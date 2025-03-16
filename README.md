@@ -118,8 +118,8 @@ streamlit run app.py
 
 ## 👥 Team
 
-- [Your Name] - Development & AI Engineering
-- [Add other team members if applicable]
+- Pratham Jain
+- Krit Lunkad
 
 ## 📊 Impact & Results
 
