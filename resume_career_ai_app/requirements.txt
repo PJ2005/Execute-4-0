@@ -1,0 +1,10 @@
+crewai
+openai
+streamlit
+pymupdf
+pdfplumber
+requests
+pandas
+plotly
+matplotlib
+python-dotenv
