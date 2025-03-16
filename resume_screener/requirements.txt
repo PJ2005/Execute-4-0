@@ -1,0 +1,14 @@
+streamlit>=1.22.0
+crewai>=0.28.0
+openrouter
+pymupdf>=1.22.3
+pdfplumber
+pandas>=2.0.1
+matplotlib>=3.7.1
+seaborn>=0.12.2
+python-dotenv>=1.0.0
+requests>=2.30.0
+openai
+numpy>=1.24.3
+python-docx
+PyPDF2
