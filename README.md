@@ -12,8 +12,6 @@ This repository contains two complementary AI-powered applications designed to r
 ## 🌟 Key Features
 
 ### Resume Screener
-![Resume Screener Screenshot](screenshots/resume_screener.png)
-*Screenshot placeholder - Add actual application screenshot*
 
 - **Job Description Analysis**: Extract key skills, requirements, and qualifications from job postings
 - **Resume Batch Processing**: Process multiple candidate resumes simultaneously
@@ -23,8 +21,6 @@ This repository contains two complementary AI-powered applications designed to r
 - **Job Market Insights**: Provide real-time job market data relevant to your search
 
 ### Resume Career AI Advisor
-![Career AI Advisor Screenshot](screenshots/career_advisor.png)
-*Screenshot placeholder - Add actual application screenshot*
 
 - **Resume Analysis**: Extract key information from resumes (skills, education, experience)
 - **Market Trend Analysis**: Dynamically scrape current job postings to identify trending skills
@@ -63,7 +59,7 @@ These applications leverage cutting-edge AI technologies to solve real challenge
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/execute.git
+   git clone https://github.com/PJ2005/Execute-4-0
    cd execute
    ```
 
